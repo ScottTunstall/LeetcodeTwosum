@@ -28,7 +28,7 @@ namespace LeetcodeTwoSum
                 }
             }
 
-            return new int[] { };
+            return Array.Empty<int>();
         }
     }
 }
